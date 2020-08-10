@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/MeditationTherapy/static/css/main.1f8663ef.chunk.css",
+    "main.js": "/MeditationTherapy/static/js/main.8aa29260.chunk.js",
+    "main.js.map": "/MeditationTherapy/static/js/main.8aa29260.chunk.js.map",
+    "runtime-main.js": "/MeditationTherapy/static/js/runtime-main.1cfae9df.js",
+    "runtime-main.js.map": "/MeditationTherapy/static/js/runtime-main.1cfae9df.js.map",
+    "static/js/2.d9082ffa.chunk.js": "/MeditationTherapy/static/js/2.d9082ffa.chunk.js",
+    "static/js/2.d9082ffa.chunk.js.map": "/MeditationTherapy/static/js/2.d9082ffa.chunk.js.map",
+    "index.html": "/MeditationTherapy/index.html",
+    "precache-manifest.57f81e61fe70d543b16e8e64ea2a7851.js": "/MeditationTherapy/precache-manifest.57f81e61fe70d543b16e8e64ea2a7851.js",
+    "service-worker.js": "/MeditationTherapy/service-worker.js",
+    "static/css/main.1f8663ef.chunk.css.map": "/MeditationTherapy/static/css/main.1f8663ef.chunk.css.map",
+    "static/js/2.d9082ffa.chunk.js.LICENSE.txt": "/MeditationTherapy/static/js/2.d9082ffa.chunk.js.LICENSE.txt",
+    "static/media/MeditationTherapyStyles.css": "/MeditationTherapy/static/media/Bg.54ec1126.png",
+    "static/media/Group 1.png": "/MeditationTherapy/static/media/Group 1.79477dd3.png",
+    "static/media/Group 2.png": "/MeditationTherapy/static/media/Group 2.c368c6f1.png",
+    "static/media/Group 3.png": "/MeditationTherapy/static/media/Group 3.8db38537.png",
+    "static/media/Group 4.png": "/MeditationTherapy/static/media/Group 4.aa6d1317.png",
+    "static/media/Group 5.png": "/MeditationTherapy/static/media/Group 5.4ba73044.png",
+    "static/media/Group 6.png": "/MeditationTherapy/static/media/Group 6.9b0cc199.png",
+    "static/media/Group 7.png": "/MeditationTherapy/static/media/Group 7.6234f3a3.png",
+    "static/media/Group 8.png": "/MeditationTherapy/static/media/Group 8.40246bb5.png",
+    "static/media/Group 9.png": "/MeditationTherapy/static/media/Group 9.80ff6c36.png",
+    "static/media/Meditate.png": "/MeditationTherapy/static/media/Meditate.7c4a775f.png",
+    "static/media/logo.png": "/MeditationTherapy/static/media/logo.c68547da.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cfae9df.js",
+    "static/js/2.d9082ffa.chunk.js",
+    "static/css/main.1f8663ef.chunk.css",
+    "static/js/main.8aa29260.chunk.js"
+  ]
+}

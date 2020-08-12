@@ -1,8 +1,8 @@
 import React from "react";
-import NavBar from "./components/NavigationBar";
+import NavBar from "../components/MeditationTherapyComponents/NavigationBar";
 import "./MeditationTherapyStyles.css";
-import Meditator from "./components/assets/MeditationTherapyPics/Meditate.png";
-import Sessions from "./components/Sessions";
+import Meditator from "../assets/MeditationTherapyPics/Meditate.png";
+import Sessions from "../components/MeditationTherapyComponents/Sessions";
 function MeditationPage()
 {
    return <div>

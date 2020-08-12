@@ -1,5 +1,4 @@
 import React from "react";
-import Pic from "./assets/MeditationTherapyPics/Group 1.png";
 import SessionsContent from "./SessionsContent";
 function Test()
 {   

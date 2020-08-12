@@ -1,6 +1,6 @@
 import React from "react";
-import Logo from "./assets/MeditationTherapyPics/logo.png";
-import FaUser from "./assets/MeditationTherapyPics/fa-user.png";
+import Logo from "../../assets/MeditationTherapyPics/logo.png";
+import FaUser from "../../assets/MeditationTherapyPics/fa-user.png";
 function NavigationBar()
 {
   return <nav className="navbar  navbar-expand-md fixed-top meditation-navbar">

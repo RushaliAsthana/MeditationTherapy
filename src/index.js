@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './MeditationPage';
+import MeditationPage from './pages/MeditationPage';
 
-ReactDOM.render(<App />,document.getElementById('root'));
+ReactDOM.render(<MeditationPage />,document.getElementById('root'));
 
